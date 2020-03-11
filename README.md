@@ -3,7 +3,7 @@ This small AppleScript application will automatically launch a terminal window a
 
 This AppleScript application can be mofified to fit your needs.
 
-You can connect to your raspberry pi or nany other machine that is properly configured using ssh with this applet. 
+You can connect to your raspberry pi or any other machine that is properly configured using ssh with this applet. 
 Unfortunately AppleScript only works on MacOS.
 
 ----------------------------------------------------------------------
@@ -36,4 +36,6 @@ Once you do that, press save and close the finder and you will be able to launch
 
 ----------------------------------------------------------------------
 
-When launching this Applet, you will be guided through simple alert styled prompts
+When launching this Applet and using it to connect, you will be guided through simple alert styled prompts.
+
+While still having the terminal window open, reopen this app, and press the logout button, it will log you out of your ssh session and then log out out of terminal, then automatically quit terminal for you.
