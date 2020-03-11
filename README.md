@@ -20,7 +20,7 @@ Once you do that, press save or export the script and thats it.
 
 ----------------------------------------------------------------------
 
-If you want to download and use the .app file, once you downoad it, right click on the application
+If you want to download and use the .app file, once you downoad it, right click on the application and press
 
     Show Package Contents> Contents> Resources> Scripts> main.scpt
     
